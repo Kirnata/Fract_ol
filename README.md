@@ -16,7 +16,7 @@ make
 - `make re` to recompile this project.<br>
 
 ## Features
-Multiple fractals : Mandelbrot, Julia, BurningShip. Increase and decrease max iteration for shape calculation. Zoom and unzoom. Different colors patterns.
+Multiple fractals : Mandelbrot, Julia, Burning_ship. Increase and decrease max iteration for shape calculation. Zoom and unzoom. Different colors patterns.
 
 ## How to use?
  ```
