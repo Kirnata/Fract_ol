@@ -20,13 +20,16 @@ Multiple fractals : Mandelbrot, Julia, BurningShip. Increase and decrease max it
 
 ## How to use?
  ```
-$> ./fractol mandelbrot
-$> ./fractol julia
-$> ./fractol burningship
+$> ./fractol Mandelbrot
+$> ./fractol Julia
+$> ./fractol Julia optional_param1 optional_param2
+$> ./fractol Burning_ship
  ```
+With optional parameters, you can change the shape of the Julia fractal and create your own custom fractal)
  ## Сontrol buttons
 
 - `space` to change colors. <br>
+- `Esc` to exit the program. <br>
 - `+ -` to increase and decrease max iteration. <br>
 - `↑ , ↓ , ← , → ` changes the position of the fractal in the window. <br>
 - `mouse scroll` to zoom follows the actual mouse position. <br>
