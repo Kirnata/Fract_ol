@@ -32,8 +32,13 @@ $> ./fractol burningship
 - `mouse scroll` to zoom follows the actual mouse position. <br>
 
 ## Pictures
-![alt text](pictures/Mandelbrote_1.png "Mandelbrot")
+![alt text](pictures/mandelbrot_1.png "Mandelbrote")
 ![alt text](pictures/Mandelbrote_2.png)
+![alt text](pictures/Julia_1.png)
+![alt text](pictures/Julia_2.png)
+![alt text](pictures/Burning_ship_1.png)
+![alt text](pictures/Burning_ship_2.png)
+![alt text](pictures/Burning_ship_3.png)
 
  ## Subject
  > [subject](subject.pdf)
