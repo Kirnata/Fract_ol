@@ -30,5 +30,10 @@ $> ./fractol burningship
 - `+ -` to increase and decrease max iteration. <br>
 - `↑ , ↓ , ← , → ` changes the position of the fractal in the window. <br>
 - `mouse scroll` to zoom follows the actual mouse position. <br>
+
+## Pictures
+![alt text](pictures/Mandelbrote_1.png "Mandelbrot")
+![alt text](pictures/Mandelbrote_2.png)
+
  ## Subject
  > [subject](subject.pdf)
